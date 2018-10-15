@@ -195,4 +195,3 @@ else{
     answerContainers[questionNumber].style.color = 'red';
 }
 resultsContainer.innerHTML = `${numCorrect} out of ${myQuestions.length}`;
-
